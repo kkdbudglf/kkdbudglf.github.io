@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[백준 알고리즘] - 11399번문제 : ATM"
+title: "[백준 알고리즘] - 11047번문제 : 동전 0"
 categories:
   - Baekjoon Online Judge
 tags:
