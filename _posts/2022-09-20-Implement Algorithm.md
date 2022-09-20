@@ -5,11 +5,11 @@ categories:
   - Algorithm
 tags:
   - Algorithm
-  - Implement
+  - Implementation 
   - Python
 ---
 
-# ✈ 구현 알고리즘 (Implement Algorithm)
+# ✈ 구현 알고리즘 (Implementation Algorithm)
 
 - 구현이란, **머릿속에 있는 알고리즘을 <u>소스코드로 바꾸는 과정</u>이다.**
 

@@ -5,7 +5,7 @@ categories:
   - Algorithm
 tags:
   - Algorithm
-  - Implement
+  - Implementation 
   - Python
 ---
 
