@@ -56,7 +56,7 @@ ___
 # n 입력 받기
 n = int(input())
 x, y = 1, 1
-plans = input().split()  # R R R U D D
+plans = input().split()
 
 # L, R, U, D
 dx = [0, 0, -1, 1]
@@ -64,7 +64,7 @@ dy = [-1, 1, 0, 0]
 move_types = ['L', 'R', 'U', 'D']
 
 # plans 하나씩 대입
-for plan in plans:  # R
+for plan in plans:
     # 이동 후 좌표 구하기
     for i in range(len(move_types)):
         if plan == move_types[i]:
