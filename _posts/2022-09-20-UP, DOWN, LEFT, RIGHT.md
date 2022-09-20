@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[구현 알고리즘] - 구현 알고리즘이란?"
+title: "[구현 알고리즘] - 상하좌우"
 categories:
   - Algorithm
 tags:
