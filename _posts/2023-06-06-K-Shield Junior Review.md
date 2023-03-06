@@ -114,6 +114,7 @@ tags:
 
 문자보다 메일이 더 빠르게 알림이 와서 메일을 확인하였고
 ![img](https://velog.velcdn.com/images/kkdbudglf/post/82b228c5-5eb4-4ac7-9437-d7e4f9df69df/image.png)
+
 합격하였습니다!
 
 사실 위에서는 말을 하지 않았지만 불합격 할 줄 알았습니다.
