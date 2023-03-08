@@ -1,12 +1,10 @@
 ---
 layout: single
-title: "[구현 알고리즘] - 상하좌우"
+title: "[케이쉴드 주니어] - 케이쉴드 주니어10기 지원 후기"
 categories:
-  - Algorithm
+  - K-Shield Junior
 tags:
-  - Algorithm
-  - Implementation 
-  - Python
+  - K-Shield Junior
 ---
 
 # 소개
