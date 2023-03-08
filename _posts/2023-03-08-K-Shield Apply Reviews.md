@@ -17,8 +17,8 @@ tags:
 
 공통과목과, 6개의 심화과정 중 1개의 심화과정을 총 2달 정도의, 200시간 교육을 **무료로 제공**해주는 프로그램입니다.
 
-지원 과정은 서류접수 -> 지필 평가 및 면접 -> 결과 순으로 이루어 지며 아래 사진을 통해 더 자세한 정보를 보실 수 있습니다.
-![image](D:\Blog\kkdbudglf.github.io\images\2023-03-08-K-Shield Apply Reviews\image.png)
+지원 과정은 서류접수 -> 지필 평가 및 면접 -> 결과 순으로 이루어 지![introduce](D:\Blog\kkdbudglf.github.io\images\2023-03-08-K-Shield Apply Reviews\introduce.png)며 아래 사진을 통해 더 자세한 정보를 보실 수 있습니다.
+
 
 현재 케이쉴드주니어에서 운영하고 있는 심화과정은
 
@@ -49,6 +49,8 @@ tags:
 서류 합격 발표는 문자와 지원 할 때 적었던 이메일로 결과를 알려줍니다.
 
 전공자분들도 지원을 많이 하는 걸로 알아서 많이 떨리고 긴장했는데
+
+![pass](D:\Blog\kkdbudglf.github.io\images\2023-03-08-K-Shield Apply Reviews\pass-1678262322856-2.png)
 
 합격 소식에 엄청 기뻤습니다.
 
@@ -115,7 +117,7 @@ tags:
 합격 발표날 떨리는 마음으로 발표 시간을 기다렸습니다.
 
 문자보다 메일이 더 빠르게 알림이 와서 메일을 확인하였고
-![pass](D:\Blog\kkdbudglf.github.io\images\2023-03-08-K-Shield Apply Reviews\pass.png)
+![final pass](D:\Blog\kkdbudglf.github.io\images\2023-03-08-K-Shield Apply Reviews\final pass.png)
 
 합격하였습니다!
 
